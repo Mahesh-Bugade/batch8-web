@@ -1,0 +1,45 @@
+.small-custom {
+    font-size: 15px;
+}
+
+i {
+    color: aqua;
+}
+
+.search-custom {
+    border-radius: 20px;
+}
+
+.header .ribbon:before,
+.descending:hover:before,
+.descending:focus:before,
+.infoBox:after {
+    border-color: #5fc8c2 transparent transparent transparent;
+}
+
+.ribbon li a {
+    color: #fff;
+}
+
+.container-fluid {
+    background-color: #E9E6E0;
+}
+
+.fa-facebook-f:before,
+.fa-facebook:before {
+    content: "\f09a";
+}
+
+.footer .full-width {
+    margin: 18px 0 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+
+.full-width {
+    width: 100%;
+    float: left;
+    display: block;
+    padding: 0 10px;
+    margin: 0 0 20px;
+}
